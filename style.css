@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to bottom right,#25CCF7, #3867d6);
+}
+h2{
+    font-family: 'Averia Libre';
+    color:#B33771;
+    text-shadow: 5px 5px 5px #6D214F;
+    font-weight: bolder;
+    font-size: 40px;
+}
+button {
+    height: 40px;
+    border-radius: 16px;
+    background-color:#FDA7DF;
+    font-size: 20px;
+    font-weight: bolder;
+}
